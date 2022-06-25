@@ -1,1 +1,1 @@
-![image_1](https://github.com/azizcanhamas/lane-detection/test.png)
+![image_1](https://github.com/azizcanhamas/lane-detection/blob/master/test.png)
